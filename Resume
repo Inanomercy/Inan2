@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yukihiro C. Nakada's Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #f0f4f8, #c9d6e3);
+            margin: 0;
+            padding: 20px;
+            color: #333;
+            text-align: center; /* Center all text within the body */
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            margin: 0; /* Remove default margins */
+        }
+        .contact-info {
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+            text-align: left; /* Align list items to the left */
+        }
+        .skills, .education, .experience, .references, .certificates, .additional-info {
+            margin: 20px 0;
+        }
+        .background-image {
+            background: url('https://photos.app.goo.gl/t6cbAkSf4gJ9r1LP8') no-repeat center center;
+            height: 150px;
+            background-size: cover;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="background-image"></div>
+        <h1>Yukihiro C. Nakada</h1>
+        <div class="contact-info">
+            <p>Address: M VALLE ST. TANGOS NORTH NAVOTAS CITY</p>
+            <p><a href="tel:09649185277">Contact Number: 09649185277</a></p>
+            <p><a href="mailto:yukihironakada746@gmail.com">Email: yukihironakada746@gmail.com</a></p>
+        </div>
+
+        <h2>Objective</h2>
+        <p>To leverage my skills in Information Technology and contribute to innovative projects, while continuously developing my expertise in software development and systems analysis.</p>
+
+        <section class="skills">
+            <h2>Related Skills to IT</h2>
+            <ul>
+                <li>Proficient in Python, Java, and C++</li>
+                <li>Web Development (HTML, CSS, JavaScript)</li>
+                <li>Database Management (MySQL, MongoDB)</li>
+                <li>Familiar with Agile Methodologies</li>
+                <li>Strong problem-solving and analytical skills</li>
+            </ul>
+        </section>
+
+        <section class="additional-info">
+            <h2>Additional Information</h2>
+            <ul>
+                <li>Birthday: July 1, 2004</li>
+                <li>Religion: Roman Catholic</li>
+                <li>Age: 21</li>
+                <li>Height: 5'7"</li>
+                <li>Weight: 70 kg</li>
+                <li>Nationality: Filipino</li>
+            </ul>
+        </section>
+
+        <section class="education">
+            <h2>Educational Background</h2>
+            <p>Bachelor of Science in Information Technology, XYZ University, Graduated 2025</p>
+        </section>
+
+        <section class="certificates">
+            <h2>Certificates and Awards</h2>
+            <ul>
+                <li>Certificate in Full Stack Web Development - ABC Institute, 2023</li>
+                <li>Data Science Seminar Participation - DEF Conference, 2023</li>
+                <li>Excellence in Programming Award - XYZ University, 2025</li>
+            </ul>
+        </section>
+
+        <section class="experience">
+            <h2>Working Experience</h2>
+            <p>Intern, Web Development - GHI Company, June 2023 - August 2023</p>
+            <ul>
+                <li>Assisted in designing and developing web applications.</li>
+                <li>Collaborated with a team to enhance user experience and functionality.</li>
+            </ul>
+        </section>
+
+        <section class="references">
+            <h2>Character References</h2>
+            <ul>
+                <li>Roland Maniques - 09197894873</li>
+                <li>Josephine Soria - 09518151513</li>
+                <li>Michael Torres - 09123456789</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
